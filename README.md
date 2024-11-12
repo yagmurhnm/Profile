@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on University of London Computer Science (Postgraduate & Undergraduate)<br>👯 I’m looking to collaborate on Dyson Google Microsoft Amazon IBM <br>🤝 I’m looking for help to be better software engineer. (Front-end)<br>🌱 I’m currently learning Front-end Technologies<br>💬 Ask me about nothing<br>⚡ Fun fact ı have no idea what ı am doing 
+🔭 Currently studying on University of London Computer Science Bachelor Degree <br>🤝 Interested in UI & UX concepts. <br> 
 
 
 ## 🌐 Socials:
